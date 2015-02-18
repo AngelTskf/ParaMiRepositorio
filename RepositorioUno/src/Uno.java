@@ -4,7 +4,7 @@ public class Uno {
 	int dosProp;
 	int tresProp;
 	String mensaje = "Tengo otra rama";
-	
+	String yaVeras = "No sé si podré volver a unir esta rama con la principal";
 	
 	
 }
